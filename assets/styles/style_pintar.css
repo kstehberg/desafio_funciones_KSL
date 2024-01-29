@@ -1,0 +1,11 @@
+
+#ele1 {
+    cursor: pointer;
+    padding: 10px;
+    border: 1px solid #000;
+  }
+  
+  #ele1:hover {
+    background-color: lightgray;
+  }
+  
